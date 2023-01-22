@@ -28,6 +28,7 @@ a standard mpi compiler for C language.
 ## BeatBox using Sundials dependency.  
 
 The Sundials based version of BeatBox requires availability of the Sundials library in addition to mpich.
+Sundials may not work as expected/desired on MacOS.
 
 # Install.  
 
