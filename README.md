@@ -42,6 +42,9 @@ provides a starting point for developers.
 
 # Use.  
 
+Untar everything in a directory using:
+tar -xvf *.tar
+
 The program requires an input script accompanied by description of the heart's geometry. Example scripts (extension: bbs) are 
 provided throughout the sources. The geometry is an ASCII text file that provides coordinates, finite difference node number, 
 and material properties. An example of how the geometry is generated is provided in the sources: beatbox_sources/BeatBox/atrium2bbg/*.c
