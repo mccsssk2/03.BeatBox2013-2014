@@ -6,7 +6,12 @@ BeatBox monodomain cardiac simulator.
 
 I was the lead developer of BeatBox software during 2013-2014. It is a modular environment primed for
 customization and development. As such, it is suitable for low dimensional cell models (e.g. FitzHugh Nagumo, Fenton Karma)
-using which rich phenomena (e.g. spiral wave filament dynamics) have been studied by others.
+using which rich phenomena (e.g. spiral wave filament dynamics) have been studied by others.  
+
+I implemented several modules (cell RHS, ADI solver, RK4 solver) and extended it for use with external libraries in
+a separate branch. The documentation and source are distributed by VNB from:  
+
+http://wiener.ex.ac.uk/~vadim/home/software/BeatBox/beatbox.html
 
 I have used this package for the following representative outputs:  
 * Mario Antonioletti, Vadim N. Biktashev, Adrian Jackson, Sanjay R. Kharche, Tomas Stary, Irina Biktasheva. BeatBox — HPC Simulation Environment for Biophysically and Anatomically Realistic Cardiac Electrophysiology. PLoS ONE 12(5): e0172292. (Authorship in alphabetical order).
