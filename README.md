@@ -37,7 +37,8 @@ Sundials may not work as expected/desired on MacOS.
 
 # Install.  
 
-Suitable cmake and makefiles are provided, in addition to install instructions for each flavour.
+The installation is a standard configure-cmake-make process. The documentation URL above gives detailed 
+instructions to compile. Suitable cmake and makefiles are provided, in addition to install instructions for each flavour.
 openmpi is not recommended, use mpich.
 
 # Sources description.
