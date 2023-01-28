@@ -67,7 +67,7 @@ VTK format. Post-processing utilities also simulate ECG, track spiral wave tips 
 # Maintainer.  
 
 BeatBox is an excellent teaching and training tool for scientific programmers and can be developed to suit graduate thesis/research projects.
-As such, I am now using my VCPL package rather than BeatBox. It is unsupported. 
+As such, I am now using my VCPL package. I can offer limited support for BeatBox.
 
 # Acknowledements.
 
