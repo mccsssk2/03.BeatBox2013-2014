@@ -9,7 +9,7 @@ customization and development. As such, it is suitable for low dimensional cell 
 using which rich phenomena (e.g. spiral wave filament dynamics) have been studied by others.  
 
 I implemented several modules (cell RHS, ADI solver, RK4 solver) and extended it for use with external libraries in
-a separate branch. I implemented several examples and simulations. The documentation and source are distributed by VNB from:  
+a separate branch. I implemented documentation, several examples and simulations. The documentation and source are distributed by VNB from:  
 
 http://wiener.ex.ac.uk/~vadim/home/software/BeatBox/beatbox.html
 
