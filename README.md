@@ -23,7 +23,10 @@ I have used this package for the following representative outputs:
 
 The package is provided in two flavours. All flavours are tested to compile and run in Uni. Exter computer (Zen, 2012-2015),
 UK HPC service (Archer), Compute Canada machines, and on personal Mac computers. In addition,
-a non-X11 flavour is also provided to assist in production runs.
+a non-X11 flavour is also provided to assist in production runs.  
+
+Briefly, the minimal dependencies are GNU C compiler, MPICC wrappers, X11. If using the PPM to VTK converters, then you want VTK or at least 
+ParaView from Kitware to process the VTK files.
 
 ## BeatBox  
 
